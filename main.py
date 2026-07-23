@@ -1,16 +1,37 @@
-# This is a sample Python script.
+import tkinter as tk
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+class Countdown:
+    def __init__(self, root, minutes):
+        self.root = root
+        self.root.attributes("-fullscreen", True)
+        self.root.configure(bg="black")
 
+        self.root.bind("<Escape>", lambda e: self.root.destroy())
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+        self.remaining = minutes * 60
 
+        self.label = tk.Label(
+            root,
+            font=("Arial", 120, "bold"),
+            fg="white",
+            bg="black"
+        )
+        self.label.pack(expand=True)
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+        self.update()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    def update(self):
+        mins = self.remaining // 60
+        secs = self.remaining % 60
+
+        self.label.config(text=f"{mins:02}:{secs:02}")
+
+        if self.remaining > 0:
+            self.remaining -= 1
+            self.root.after(1000, self.update)
+        else:
+            self.label.config(text="TIME'S UP!")
+
+root = tk.Tk()
+Countdown(root, 188)
+root.mainloop()
