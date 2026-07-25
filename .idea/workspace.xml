@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Complete NumPy Day 1: arrays, indexing and vectorized operations">
-      <change afterPath="$PROJECT_DIR$/02_Numpy/02_2d_arrays.py" afterDir="false" />
+    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Complete NumPy Day 2: 2D arrays, indexing and slicing">
+      <change afterPath="$PROJECT_DIR$/02_Numpy/03_creating_arrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.02_2d_arrays.executor": "Run",
+    "Python.03_creating_arrays.executor": "Run",
     "Python.challege_day1.executor": "Run",
     "Python.lesson1_array.executor": "Run",
     "Python.main.executor": "Debug",
@@ -61,7 +62,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,6 +73,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\AI-ML-Jounery\02_Numpy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784831560936</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Complete NumPy Day 2: 2D arrays, indexing and slicing">
+      <option name="closed" value="true" />
+      <created>1784916103639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784916103640</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project setup" />
     <MESSAGE value="Complete NumPy Day 1: arrays, indexing and vectorized operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete NumPy Day 1: arrays, indexing and vectorized operations" />
+    <MESSAGE value="Complete NumPy Day 2: 2D arrays, indexing and slicing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete NumPy Day 2: 2D arrays, indexing and slicing" />
   </component>
 </project>
