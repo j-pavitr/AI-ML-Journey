@@ -1,5 +1,5 @@
 import numpy as g
-'''arr = g.zeros((3,4))
+arr = g.zeros((3,4))
 print(arr)
 print(arr.shape)
 
@@ -25,7 +25,7 @@ mat = arr5.reshape(3,4)
 print(mat)
 mat1 = arr5.reshape(4,3)
 print(mat1)
-'''
+
 n = g.arange(1,17)
 print(n.reshape(4,4))
 print(n.reshape(4,4).shape)

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Complete NumPy Day 2: 2D arrays, indexing and slicing">
-      <change afterPath="$PROJECT_DIR$/02_Numpy/03_creating_arrays.py" afterDir="false" />
+    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Complete NumPy Day 3: array creation and reshape">
+      <change afterPath="$PROJECT_DIR$/02_Numpy/04_array_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/student_marks_analyzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Numpy/03_creating_arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Numpy/03_creating_arrays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +55,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.02_2d_arrays.executor": "Run",
     "Python.03_creating_arrays.executor": "Run",
+    "Python.04_array_operations.executor": "Run",
     "Python.challege_day1.executor": "Run",
     "Python.lesson1_array.executor": "Run",
     "Python.main.executor": "Debug",
+    "Python.student_marks_analyzer.executor": "Run",
     "Python.timer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -117,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784916103640</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete NumPy Day 3: array creation and reshape">
+      <option name="closed" value="true" />
+      <created>1785005752081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785005752081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +151,7 @@
     <MESSAGE value="Initial project setup" />
     <MESSAGE value="Complete NumPy Day 1: arrays, indexing and vectorized operations" />
     <MESSAGE value="Complete NumPy Day 2: 2D arrays, indexing and slicing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete NumPy Day 2: 2D arrays, indexing and slicing" />
+    <MESSAGE value="Complete NumPy Day 3: array creation and reshape" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete NumPy Day 3: array creation and reshape" />
   </component>
 </project>
