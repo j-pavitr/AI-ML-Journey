@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Complete NumPy Day 4 and build Student Marks Analyzer v1">
-      <change afterPath="$PROJECT_DIR$/02_Numpy/05_matrix_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_Mini_Projects/Random_Marks_Generator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_Mini_Projects/Random_Marks_Generator/random_marks_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/student_marks_analyzer_v2.py" afterDir="false" />
+    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Upgrade Student Marks Analyzer to v2 with dynamic input, validation and grading">
+      <change afterPath="$PROJECT_DIR$/06_Mini_Projects/Student_Performance_Analyzer/student_performance_analyzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/student_marks_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Mini_Projects/Student_Marks_Analyzer/archive/student_marks_analyzer_v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +59,7 @@
     "Python.main.executor": "Debug",
     "Python.student_marks_analyzer.executor": "Run",
     "Python.student_marks_analyzer_v2.executor": "Run",
+    "Python.student_performance_analyzer.executor": "Run",
     "Python.timer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -84,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\AI-ML-Jounery\06_Mini_Projects\Student_Marks_Analyzer\archive" />
       <recent name="C:\Users\Hp\PycharmProjects\AI-ML-Jounery\02_Numpy" />
     </key>
   </component>
@@ -142,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785057761909</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Upgrade Student Marks Analyzer to v2 with dynamic input, validation and grading">
+      <option name="closed" value="true" />
+      <created>1785092936725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1785092936725</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +170,7 @@
     <MESSAGE value="Complete NumPy Day 2: 2D arrays, indexing and slicing" />
     <MESSAGE value="Complete NumPy Day 3: array creation and reshape" />
     <MESSAGE value="Complete NumPy Day 4 and build Student Marks Analyzer v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete NumPy Day 4 and build Student Marks Analyzer v1" />
+    <MESSAGE value="Upgrade Student Marks Analyzer to v2 with dynamic input, validation and grading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgrade Student Marks Analyzer to v2 with dynamic input, validation and grading" />
   </component>
 </project>
