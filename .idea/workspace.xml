@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="">
+    <list default="true" id="d6ce5ffa-8e46-450c-b35a-45c8b67c92eb" name="Changes" comment="Complete Day 7: Learn advanced NumPy operations and update repository README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Mini_Projects/Random_Marks_Generator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_Numpy/06_advanced_numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Mini_Projects/Random_Marks_Generator/random_marks_generator.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785179018733</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Complete Day 7: Learn advanced NumPy operations and update repository README">
+      <option name="closed" value="true" />
+      <created>1785349319310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1785349319310</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +188,7 @@
     <MESSAGE value="Complete NumPy Day 4 and build Student Marks Analyzer v1" />
     <MESSAGE value="Upgrade Student Marks Analyzer to v2 with dynamic input, validation and grading" />
     <MESSAGE value="Build Student Performance Analyzer using NumPy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build Student Performance Analyzer using NumPy" />
+    <MESSAGE value="Complete Day 7: Learn advanced NumPy operations and update repository README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Day 7: Learn advanced NumPy operations and update repository README" />
   </component>
 </project>
